@@ -1583,7 +1583,7 @@ footer .footer-content .box .subscribe a {
   .saying-about-us{
   	padding: 60px 0 100px 0;
   }
- 
+
 }
 @media screen and (max-width: 992px) {
 	.contact-form .contact-form-content .contact-form-block .box .content-box{
@@ -1676,7 +1676,7 @@ footer .footer-content .box .subscribe a {
 	}
 	.banner-text .banner-text-content {
 	    flex-direction: column;
-	    margin: 85px 0 0 0;
+	    gap: 25px;
 	}
 	header .bottom-head .box .nav-menu nav ul{
 		gap: 18px;
